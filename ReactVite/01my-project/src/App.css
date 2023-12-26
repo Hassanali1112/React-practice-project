@@ -1,0 +1,19 @@
+.color-container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom: 50px;
+
+}
+.mini-container{
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+ 
+}
+button{
+  border: none;
+}

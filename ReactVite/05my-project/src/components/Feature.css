@@ -1,0 +1,33 @@
+.feature{
+    margin: 5vw 8vw;
+    
+}
+.feature-head{
+    height: 60vh;
+
+}
+.feature-head .stoke {
+    color : transparent;
+    -webkit-text-stroke: .7px black;
+}
+.feature-head h1 {
+    font-size: 4vw;
+    font-weight: 700;
+}
+.feat-left{
+    overflow: hidden;
+    height: 100vh;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+ 
+  
+   
+}
+.feat-left-elm{
+    margin: 30% 0px;
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+}

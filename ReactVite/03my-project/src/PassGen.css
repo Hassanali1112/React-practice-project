@@ -1,0 +1,17 @@
+.container{
+    width : 100%;
+    max-width: 450px;
+    margin : 20px auto;
+    background-color: cadetblue;
+    box-shadow: 2px 5px 8px 1px gray;
+    border-radius: 8px;
+    
+}
+body{
+    background-color: black;
+}
+.pass-input{
+    display: flex;
+    overflow: hidden;
+    margin-bottom: 8px;
+}

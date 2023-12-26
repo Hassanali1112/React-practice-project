@@ -1,0 +1,58 @@
+.home h1{
+    font-size: 8vmax;
+    color: transparent;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 5px 1px rgba(23, 22, 22, 0.302);
+    text-transform: capitalize;
+    letter-spacing: -7px;
+}
+.home{
+    padding: 5vh 23vh;
+   
+}
+.home .second-head{
+    padding-left: 20vh;
+}
+
+
+.nav-bg{
+    padding: 15px 50px;
+}
+.dev-head{
+    padding: 5vw;
+    
+}
+.dev-head h1{
+    font-size: 3,7vw;
+    width : 60%;
+    line-height: 3.5vw;
+    font-weight: 600;
+}
+.dev-head p{
+    width : 65%;
+    padding: 1vw 0;
+    font-weight: 600;
+}
+.dev-card .row img{
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 4px 4px 1px rgb(205, 199, 199);
+}
+.tag{
+    border-radius: 30px ;
+    padding: .5vw 1.3vw;
+    margin: 1.7vw 0;
+    font-weight: 600;
+    width: auto;
+    display: inline-block;
+    background-color: rgb(216, 199, 199);
+}
+.dev-card .row .col-4 p{
+    font-size: 1.5vw;
+    font-weight: 600;
+}
+.btn{
+    border: 1px solid rgb(195, 189, 189);
+    font-size: 16px;
+    background-color: rgb(243, 220, 220);
+}
